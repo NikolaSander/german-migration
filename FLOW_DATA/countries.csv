@@ -1,0 +1,398 @@
+iso,name,show
+1,Ammerland,0
+2,Aurich,0
+3,Braunschweig,1
+4,Bremen,1
+5,Bremerhaven,0
+6,Celle,0
+7,Cloppenburg,0
+8,Cuxhaven,0
+9,Delmenhorst,0
+10,Diepholz,0
+11,Dithmarschen,0
+12,Emden,0
+13,Emsland,1
+14,Flensburg,0
+15,Friesland,0
+16,Gifhorn,0
+17,Goslar,0
+18,Göttingen,1
+19,Grafschaft Bentheim,0
+20,Hamburg,1
+21,Hameln-Pyrmont,0
+22,Harburg,1
+23,Helmstedt,0
+24,Herzogtum Lauenburg,1
+25,Hildesheim,1
+26,Holzminden,0
+27,Kiel,1
+28,Leer,0
+29,Lübeck,1
+30,Lüchow-Dannenberg,0
+31,Lüneburg,1
+32,Neumünster,0
+33,Nienburg,0
+34,Nordfriesland,0
+35,Northeim,0
+36,Oldenburg,1
+37,Oldenburg,0
+38,Osnabrück,0
+39,Osnabrück,1
+40,Osterholz,0
+41,Osterode am Harz,0
+42,Ostholstein,1
+43,Peine,0
+44,Pinneberg,1
+45,Plön,0
+46,Region Hannover,1
+47,Rendsburg-Eckernförde,1
+48,Rotenburg ,0
+49,Salzgitter,0
+50,Schaumburg,0
+51,Schleswig-Flensburg,1
+52,Segeberg,1
+53,Soltau-Fallingbostel,0
+54,Stade,0
+55,Steinburg,0
+56,Stormarn,1
+57,Uelzen,0
+58,Vechta,0
+59,Verden,0
+60,Wesermarsch,0
+61,Wilhelmshaven,0
+62,Wittmund,0
+63,Wolfenbüttel,0
+64,Wolfsburg,0
+65,Barnim,1
+66,Berlin,1
+67,Brandenburg an der Havel,0
+68,Dahme-Spreewald,0
+69,Elbe-Elster,0
+70,Frankfurt (Oder),0
+71,Havelland,0
+72,Ludwigslust-Parchim ,1
+73,Märkisch-Oderland,1
+74,Mecklenb.,1
+75,Nordwestmecklenburg ,0
+76,Oberhavel,1
+77,Oberspreewald-Lausitz,0
+78,Oder-Spree,0
+79,Ostprignitz-Ruppin,0
+80,Potsdam-Mittelmark,1
+81,Prignitz,0
+82,Rostock,1
+83,Rostock ,1
+84,Schwerin,0
+85,Spree-Neiße,0
+86,Teltow-Fläming,0
+87,Uckermark,0
+88,Vorpommern-Greifswald ,1
+89,Vorpommern-Rügen ,0
+90,Altenburger Land,0
+91,Altmarkkreis Salzwedel,0
+92,Bautzen,1
+93,Börde,0
+94,Burgenlandkreis,0
+95,Chemnitz,1
+96,Dessau-Roßlau,0
+97,Dresden,1
+98,Eichsfeld,0
+99,Eisenach,0
+100,Erfurt,1
+101,Erzgebirgskreis,0
+102,Gera,0
+103,Görlitz,0
+104,Gotha,0
+105,Greiz,0
+106,Halle (Saale),1
+107,Harz,0
+108,Hildburghausen,0
+109,Ilm-Kreis,0
+110,Jena,0
+111,Jerichower Land,1
+112,Kyffhäuserkreis,0
+113,Leipzig,1
+114,Leipzig,1
+115,Magdeburg,1
+116,Mansfeld-Südharz,0
+117,Meißen,0
+118,Mittelsachsen,1
+119,Nordhausen,0
+120,Nordsachsen,0
+121,Saale-Holzland-Kreis,0
+122,Saalekreis,0
+123,Saale-Orla-Kreis,0
+124,Saalfeld-Rudolstadt,0
+125,Sächsische Schweiz,0
+126,Salzlandkreis,0
+127,Schmalkalden-Meiningen,0
+128,Sömmerda,0
+129,Sonneberg,0
+130,Stendal,0
+131,Suhl,0
+132,Unstrut-Hainich-Kreis,0
+133,Vogtlandkreis,0
+134,Weimar,0
+135,Weimarer Land,0
+136,Zwickau,1
+137,Aichach-Friedberg,0
+138,Altötting,0
+139,Amberg,0
+140,Amberg,0
+141,Ansbach,0
+142,Ansbach,0
+143,Aschaffenburg,0
+144,Aschaffenburg,0
+145,Augsburg,1
+146,Augsburg,1
+147,Bad Kissingen,0
+148,Bad Tölz,0
+149,Bamberg,0
+150,Bamberg,0
+151,Bayreuth,0
+152,Bayreuth,0
+153,Berchtesgadener Land,0
+154,Cham,0
+155,Coburg,0
+156,Coburg,0
+157,Dachau,0
+158,Deggendorf,0
+159,Dillingen a.d.Donau,0
+160,Dingolfing,0
+161,Donau-Ries,0
+162,Ebersberg,0
+163,Eichstätt,0
+164,Erding,0
+165,Erlangen,0
+166,Erlangen-Höchstadt,0
+167,Forchheim,0
+168,Freising,1
+169,Freyung-Grafenau,0
+170,Fürstenfeldbruck,1
+171,Fürth,1
+172,Fürth,0
+173,Garmisch-Partenkirchen,0
+174,Günzburg,0
+175,Haßberge,0
+176,Hof,0
+177,Hof,0
+178,Ingolstadt,0
+179,Kaufbeuren,0
+180,Kelheim,0
+181,Kempten,0
+182,Kitzingen,0
+183,Kronach,0
+184,Kulmbach,0
+185,Landsberg,0
+186,Landshut,0
+187,Landshut,0
+188,Lichtenfels,0
+189,Lindau,0
+190,Main-Spessart,0
+191,Memmingen,0
+192,Miesbach,0
+193,Miltenberg,0
+194,Mühldorf a.Inn,0
+195,München,1
+196,München,1
+197,Neuburg-Schrobenhausen,0
+198,Neumarkt,0
+199,Neustadt a.d.Aisch,0
+200,Neustadt Waldnaab,0
+201,Neu-Ulm,0
+202,Nürnberg,1
+203,Nürnberger Land,0
+204,Oberallgäu,0
+205,Ostallgäu,0
+206,Passau,0
+207,Passau,0
+208,Pfaffenhofen,0
+209,Regen,0
+210,Regensburg,1
+211,Regensburg,0
+212,Rhön-Grabfeld,0
+213,Rosenheim,0
+214,Rosenheim,1
+215,Roth,0
+216,Rottal-Inn,0
+217,Schwabach,0
+218,Schwandorf,0
+219,Schweinfurt,0
+220,Schweinfurt,0
+221,Starnberg,0
+222,Straubing,0
+223,Straubing,0
+224,Tirschenreuth,0
+225,Traunstein,0
+226,Unterallgäu,0
+227,Weiden,0
+228,Weilheim-Schongau,0
+229,Weißenburg-Gunzenhausen,0
+230,Wunsiedel,0
+231,Würzburg,1
+232,Würzburg,0
+233,Alb-Donau-Kreis,0
+234,Baden-Baden,0
+235,Biberach,0
+236,Böblingen,1
+237,Bodenseekreis,1
+238,Breisgau,1
+239,Calw,0
+240,Emmendingen,0
+241,Enzkreis,1
+242,Esslingen,1
+243,Freiburg,1
+244,Freudenstadt,0
+245,Göppingen,0
+246,Heidelberg,1
+247,Heidenheim,0
+248,Heilbronn,0
+249,Heilbronn,1
+250,Hohenlohekreis,0
+251,Karlsruhe,1
+252,Karlsruhe,1
+253,Konstanz,1
+254,Lörrach,0
+255,Ludwigsburg,1
+256,Main-Tauber-Kreis,0
+257,Mannheim,1
+258,Neckar-Odenwald-Kreis,0
+259,Ortenaukreis,1
+260,Ostalbkreis,1
+261,Pforzheim,0
+262,Rastatt,1
+263,Ravensburg,1
+264,Rems-Murr-Kreis,1
+265,Reutlingen,1
+266,Rhein-Neckar-Kreis,1
+267,Rottweil,0
+268,Schwäbisch Hall,0
+269,Schwarzwald-Baar-Kreis,0
+270,Sigmaringen,0
+271,Stuttgart,1
+272,Tübingen,1
+273,Tuttlingen,0
+274,Ulm,1
+275,Waldshut,0
+276,Zollernalbkreis,0
+277,Ahrweiler,0
+278,Altenkirchen ,0
+279,Alzey-Worms,0
+280,Bad Dürkheim,0
+281,Bad Kreuznach,0
+282,Bergstraße,1
+283,Bernkastel-Wittlich,0
+284,Birkenfeld,0
+285,Cochem-Zell,0
+286,Darmstadt,1
+287,Darmstadt-Dieburg,1
+288,Donnersbergkreis,0
+289,Eifelkreis,0
+290,Frankenthal ,0
+291,Frankfurt,1
+292,Fulda,0
+293,Germersheim,0
+294,Gießen,1
+295,Groß-Gerau,1
+296,Hersfeld-Rotenburg,0
+297,Hochtaunuskreis,1
+298,Kaiserslautern,0
+299,Kaiserslautern,0
+300,Kassel,1
+301,Kassel,0
+302,Koblenz,0
+303,Kusel,0
+304,Lahn-Dill-Kreis,0
+305,Landau in der Pfalz,0
+306,Limburg-Weilburg,0
+307,Ludwigshafen,1
+308,Main-Kinzig-Kreis,1
+309,Main-Taunus-Kreis,1
+310,Mainz,1
+311,Mainz-Bingen,1
+312,Marburg-Biedenkopf,1
+313,Mayen-Koblenz,1
+314,Merzig-Wadern,0
+315,Neunkirchen,0
+316,Neustadt Weinstraße,0
+317,Neuwied,0
+318,Odenwaldkreis,0
+319,Offenbach,0
+320,Offenbach,1
+321,Pirmasens,0
+322,Rheingau-Taunus-Kreis,0
+323,Rhein-Hunsrück-Kreis,0
+324,Rhein-Lahn-Kreis,0
+325,Rhein-Pfalz-Kreis,0
+326,Saarbrücken,1
+327,Saarlouis,0
+328,Saarpfalz-Kreis,0
+329,Schwalm-Eder-Kreis,0
+330,Speyer,0
+331,St. Wendel,0
+332,Südliche Weinstraße,0
+333,Südwestpfalz,0
+334,Trier,1
+335,Trier-Saarburg,0
+336,Vogelsbergkreis,0
+337,Vulkaneifel,0
+338,Waldeck-Frankenberg,0
+339,Werra-Meißner-Kreis,0
+340,Westerwaldkreis,0
+341,Wetteraukreis,1
+342,Wiesbaden,1
+343,Worms,0
+344,Zweibrücken,0
+345,Aachen,1
+346,Bielefeld,1
+347,Bochum,1
+348,Bonn,1
+349,Borken,1
+350,Bottrop,0
+351,Coesfeld,0
+352,Dortmund,1
+353,Duisburg,1
+354,Düren,1
+355,Düsseldorf,1
+356,Ennepe-Ruhr-Kreis,1
+357,Essen,1
+358,Euskirchen,0
+359,Gelsenkirchen,1
+360,Gütersloh,1
+361,Hagen,1
+362,Hamm,0
+363,Heinsberg,0
+364,Herford,1
+365,Herne,0
+366,Hochsauerlandkreis,0
+367,Höxter,0
+368,Kleve,1
+369,Köln,1
+370,Krefeld,1
+371,Leverkusen,0
+372,Lippe,1
+373,Märkischer Kreis,1
+374,Mettmann,1
+375,Minden-Lübbecke,1
+376,Mönchengladbach,1
+377,Mülheim,0
+378,Münster,1
+379,Oberbergischer Kreis,1
+380,Oberhausen,1
+381,Olpe,0
+382,Paderborn,1
+383,Recklinghausen,1
+384,Remscheid,0
+385,Rhein-Erft-Kreis,1
+386,Rheinisch-Bergischer Kreis,1
+387,Rhein-Kreis Neuss,1
+388,Rhein-Sieg-Kreis,1
+389,Siegen-Wittgenstein,0
+390,Soest,1
+391,Solingen,0
+392,Steinfurt,1
+393,Unna,1
+394,Viersen,1
+395,Warendorf,1
+396,Wesel,1
+397,Wuppertal,1
